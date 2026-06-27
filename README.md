@@ -85,7 +85,7 @@ AI‑generated contributions to these areas must satisfy Article 3.2 (understand
 | **6** | All AI‑assisted content must be reviewed by a human; the reviewer cannot be an AI tool (approval power reserved for humans) |
 | **7** | Severability; revisions require maintainer approval and changelog |
 
-> Read the full text in [`POLICY_OF_AIGC`](./POLICY_OF_AIGC).
+> Read the full text in [here](./contents)
 
 ---
 
